@@ -1,0 +1,21 @@
+# Core Data Science Libraries
+pandas==2.0.3
+numpy==1.24.3
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.15.0
+
+# Database
+sqlite3  # Built into Python
+sqlalchemy==2.0.19
+
+# Web Framework
+streamlit==1.25.0
+
+# Jupyter for exploration
+jupyter==1.0.0
+ipykernel==6.25.0
+
+# Additional utilities
+python-dotenv==1.0.0
+datetime
